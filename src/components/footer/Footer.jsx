@@ -5,7 +5,7 @@ import Image from "next/image";
 
 import { FaFacebookSquare, FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter, FaSquareYoutube } from "react-icons/fa6";
-
+//ciao
 const Footer = () => {
   return (
     <footer className={styles.footer}>
